@@ -30,5 +30,11 @@ To run the microsimulator, use the following command:
 
 ```bash
 python3 micro_simulator.py
-
-
+```
+## What It Does
+This Python simulator demonstrates FastSLAM (a SLAM algorithm) with:
+- **2D robot simulation** (blue triangle)
+- **Landmark detection** (red circles = true, green crosses = estimated)
+- **Particle filter visualization** (gray dots)
+- **Uncertainty ellipses** (green ovals around estimates)
+- Two operation modes: automatic circular path or manual control
