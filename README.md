@@ -22,7 +22,7 @@ Developed for educational purposes in robotic navigation and simultaneous locali
 
 ![rviz (1)](https://github.com/user-attachments/assets/5ea48d03-5da3-46f5-bbd2-cd245d06afa5)
 
-# How to Run Micro-Simulation
+# Micro-Simulation
 
 **Run the Program**   
 
