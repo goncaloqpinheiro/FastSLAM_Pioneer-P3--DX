@@ -39,3 +39,7 @@ This Python simulator demonstrates FastSLAM (a SLAM algorithm) with:
 - **Particle filter visualization** (gray dots)
 - **Uncertainty ellipses** (green ovals around estimates)
 - Two operation modes: automatic circular path or manual control
+
+<img src="https://github.com/user-attachments/assets/5d8d7753-b796-4a9d-bdb9-047827ce1390" width="400" alt="Micro-simulation visualization">
+
+
